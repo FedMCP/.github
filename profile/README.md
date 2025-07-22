@@ -1,9 +1,5 @@
 # FedMCP - Federal Model Context Protocol
 
-<p align="center">
-  <img src="https://github.com/FedMCP/ui/blob/main/public/fedmcp-logo.png" alt="FedMCP Logo" width="200">
-</p>
-
 FedMCP is a FedRAMP-aligned superset of the Model Context Protocol that adds audit, redaction, and signature controls to MCP agents for government cloud workloads.
 
 ## 🏛️ Overview
